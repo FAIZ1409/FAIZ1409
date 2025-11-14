@@ -1,9 +1,10 @@
-👋 Hello, I'm Mohammed Faiz Y
+👋 Hello, I'm Mohammed Faiz
 Full-Stack Developer • AI Enthusiast • Financial Tech Innovator
 
+🚀 About Me
 <div align="center">
-🚀 Building intelligent solutions at the intersection of finance and technology
-💡 Passionate about Full-Stack Development, AI Integration, and Financial Systems
+💡 Building intelligent solutions at the intersection of finance and technology
+🔥 Passionate about Full-Stack Development, AI Integration, and Financial Systems
 🎯 Mission: Create tools that simplify complex financial processes
 
 </div>
@@ -46,13 +47,7 @@ https://img.shields.io/badge/%F0%9F%93%81_Repository-181717?style=for-the-badge&
 AI-powered document processing for financial insights
 
 Tech Stack: Python, TensorFlow, NLP, OCR
-Features:
-
-Document classification and data extraction
-
-Sentiment analysis on financial reports
-
-Automated summary generation
+Features: Document classification, sentiment analysis, automated summaries
 
 https://img.shields.io/badge/%F0%9F%94%8D_Explore-FF6B35?style=for-the-badge&logo=python&logoColor=white
 
@@ -60,13 +55,7 @@ https://img.shields.io/badge/%F0%9F%94%8D_Explore-FF6B35?style=for-the-badge&log
 Advanced image processing tool for automatic background removal
 
 Tech Stack: Computer Vision, Deep Learning, Flask
-Features:
-
-One-click background removal
-
-Batch processing capabilities
-
-High-quality output preservation
+Features: One-click removal, batch processing, high-quality output
 
 https://img.shields.io/badge/%F0%9F%8E%A8_Try_Now-DD4B39?style=for-the-badge&logo=adobephotoshop&logoColor=white
 
@@ -74,39 +63,20 @@ https://img.shields.io/badge/%F0%9F%8E%A8_Try_Now-DD4B39?style=for-the-badge&log
 Comprehensive financial risk analysis platform
 
 Tech Stack: Full-Stack, Data Visualization, Risk Modeling
-Features:
-
-Real-time risk assessment
-
-Interactive dashboards
-
-Predictive analytics
+Features: Real-time risk assessment, interactive dashboards, predictive analytics
 
 https://img.shields.io/badge/%F0%9F%93%8A_Demo-7747B4?style=for-the-badge&logo=chartdotjs&logoColor=white
 
 📊 GitHub Analytics
-<div align="center"><!-- GitHub Stats Cards --><a href="https://github.com/FAIZ1409"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZ1409&layout=compact&langs_count=8&theme=radical&hide_border=true"/> </a><!-- GitHub Streak --><a href="https://github.com/FAIZ1409"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FAIZ1409&theme=radical&hide_border=true"/> </a></div>
-🎯 What I Bring to the Table
 <div align="center">
-🔧 Technical Excellence
-Full-Stack Development | AI Integration | System Architecture
+https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true
 
-💼 Domain Expertise
-Financial Technology | Data Analytics | Risk Management
+https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZ1409&layout=compact&theme=radical&hide_border=true
 
-🚀 Innovation Focus
-User-Centric Design | Scalable Solutions | Cutting-Edge Tech
+https://github-readme-streak-stats.herokuapp.com/?user=FAIZ1409&theme=radical&hide_border=true
 
 </div>
-📈 Project Impact Metrics
-<div align="center">
-Project	Users Impacted	Complexity	Innovation Factor
-Expense Tracker	500+	⭐⭐⭐⭐	⭐⭐⭐⭐
-Financial Analyzer	200+	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐
-Magic Eraser	1000+	⭐⭐⭐	⭐⭐⭐⭐
-FRA System	50+	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐
-</div>
-📫 Let's Connect & Collaborate
+📫 Let's Connect
 <div align="center">
 https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -118,17 +88,4 @@ https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&log
 💡 "Transforming complex financial challenges into elegant digital solutions"
 ⭐ From FAIZ1409
 
-https://komarev.com/ghpvc/?username=FAIZ1409&color=blueviolet&style=flat-square
-
 </div>
-"Code is poetry, and every project tells a story of problem-solving and innovation."
-
-Quick Stats:
-
-🚀 4+ Major Projects Delivered
-
-💼 Financial Tech Specialist
-
-🤖 AI Integration Expert
-
-📱 Full-Stack Developer
