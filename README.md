@@ -39,22 +39,18 @@ Passionate about Full-Stack Development, AI Integration, and Financial Systems
 
 ## 🌟 Featured Projects
 
-### 💰 **Expense Tracker Pro**
-Full-stack expense management system with intelligent categorization
+# 🌟 Featured Projects
 
-```javascript
-// Smart expense categorization
-const categorizeExpense = (transaction) => {
-  return intelligentCategory;
-};
-Tech Stack: React, Node.js, MongoDB, Chart.js
+## 💰 Expense Tracker Pro
+**Full-stack expense management system with intelligent categorization**
+Tech Stack: HTML, CSS, JavaScript, Node.js, MongoDB, Chart.js
 Features: Real-time analytics, budget alerts, receipt scanning
 
 https://img.shields.io/badge/%F0%9F%94%97_Repository-181717?style=for-the-badge&logo=github&logoColor=white
 
 📄 Financial Document Analyzer
 AI-powered document processing for financial insights
-
+```
 Tech Stack: Python, TensorFlow, NLP, OCR
 Features: Document classification, sentiment analysis, automated summaries
 
@@ -71,7 +67,7 @@ https://img.shields.io/badge/%F0%9F%94%97_Repository-181717?style=for-the-badge&
 📊 FRA Atlas & Decision Support System
 Comprehensive financial risk analysis platform
 
-Tech Stack: Full-Stack, Data Visualization, Risk Modeling
+Tech Stack: Java, Spring Boot, Data Visualization, Risk Modeling
 Features: Real-time risk assessment, interactive dashboards, predictive analytics
 
 https://img.shields.io/badge/%F0%9F%94%97_Repository-181717?style=for-the-badge&logo=github&logoColor=white
