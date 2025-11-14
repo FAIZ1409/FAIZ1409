@@ -37,58 +37,36 @@ Passionate about Full-Stack Development, AI Integration, and Financial Systems
 
 ---
 
-## 🌟 Featured Projects
-
 # 🌟 Featured Projects
 
 ## 💰 Expense Tracker Pro
 **Full-stack expense management system with intelligent categorization**
-Tech Stack: HTML, CSS, JavaScript, Node.js, MongoDB, Chart.js
-Features: Real-time analytics, budget alerts, receipt scanning
 
-https://img.shields.io/badge/%F0%9F%94%97_Repository-181717?style=for-the-badge&logo=github&logoColor=white
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, MongoDB, Chart.js  
+**Features:** Real-time analytics, budget alerts, receipt scanning
 
-📄 Financial Document Analyzer
-AI-powered document processing for financial insights
-```
-Tech Stack: Python, TensorFlow, NLP, OCR
-Features: Document classification, sentiment analysis, automated summaries
+[![View Repository](https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FAIZ1409/Expense_tracker-Final)
 
-https://img.shields.io/badge/%F0%9F%94%97_Repository-181717?style=for-the-badge&logo=github&logoColor=white
+## 📄 Financial Document Analyzer
+**AI-powered document processing for financial insights**
 
-🎨 Magic Eraser - Background Removal
-Advanced image processing tool for automatic background removal
+**Tech Stack:** Python, TensorFlow, NLP, OCR  
+**Features:** Document classification, sentiment analysis, automated summaries
 
-Tech Stack: Computer Vision, Deep Learning, Flask
-Features: One-click removal, batch processing, high-quality output
+[![View Repository](https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FAIZ1409/Financial-Document-Analyser)
 
-https://img.shields.io/badge/%F0%9F%94%97_Repository-181717?style=for-the-badge&logo=github&logoColor=white
+## 🎨 Magic Eraser - Background Removal
+**Advanced image processing tool for automatic background removal**
 
-📊 FRA Atlas & Decision Support System
-Comprehensive financial risk analysis platform
+**Tech Stack:** Computer Vision, Deep Learning, Flask  
+**Features:** One-click removal, batch processing, high-quality output
 
-Tech Stack: Java, Spring Boot, Data Visualization, Risk Modeling
-Features: Real-time risk assessment, interactive dashboards, predictive analytics
+[![View Repository](https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FAIZ1409/MagicEraser)
 
-https://img.shields.io/badge/%F0%9F%94%97_Repository-181717?style=for-the-badge&logo=github&logoColor=white
+## 📊 FRA Atlas & Decision Support System
+**Comprehensive financial risk analysis platform**
 
-📊 GitHub Analytics
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true
+**Tech Stack:** Java, Spring Boot, Data Visualization, Risk Modeling  
+**Features:** Real-time risk assessment, interactive dashboards, predictive analytics
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZ1409&layout=compact&theme=radical&hide_border=true
-
-https://github-readme-streak-stats.herokuapp.com/?user=FAIZ1409&theme=radical&hide_border=true
-
-</div>
-📫 Let's Connect
-https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-
-<div align="center">
-💡 "Transforming complex financial challenges into elegant digital solutions"
-⭐ From FAIZ1409
-
-</div> ```
+[![View Repository](https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FAIZ1409/FRA-ATLAS-AND-DSS)
