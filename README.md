@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohammed Faiz
 
-**Full-Stack Developer • AI Enthusiast • Financial Tech Innovator**
+**Full-Stack Developer • AI Enthusiast • Tech Innovator  •Data Analyser**
 
 ---
 
