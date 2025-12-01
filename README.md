@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/yYr2c8d/Black-Minimalist-Motivation-Quote-Linked-In-Banner.png" width="100%" />
+  <img src="/assets/banner.png" alt="banner" width="100%" />
 </p>
+
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00E4FF;">Mohammed Faiz</span></h1>
 
@@ -81,10 +82,11 @@
 
 ## 🔥 **GitHub Analytics**
 
+<!-- GitHub stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZ1409&layout=compact&theme=radical&hide_border=true" height="170">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZ1409&layout=compact&theme=radical&hide_border=true" alt="top langs"/>
+</p>  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAIZ1409&theme=radical&hide_border=true" height="170">
