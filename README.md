@@ -1,104 +1,118 @@
-# 👋 Hello, I'm Mohammed Faiz
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/yYr2c8d/Black-Minimalist-Motivation-Quote-Linked-In-Banner.png" width="100%" />
+</p>
 
-**Full-Stack Developer • AI Enthusiast • Tech Innovator  • Data Analyser**
+<h1 align="center">👋 Hey, I'm <span style="color:#00E4FF;">Mohammed Faiz</span></h1>
 
----
+<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Financial Tech Innovator</h3>
 
-## 🚀 About Me
-
-Building intelligent solutions at the intersection of finance and technology  
-Passionate about Full-Stack Development, AI Integration, and Financial Systems  
-**Mission:** Create tools that simplify complex financial processes
-
----
-
-## 🛠️ Tech Stack
-
-### **Frontend & Mobile**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Backend & Databases**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **AI/ML & Cloud**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  Turning complex financial problems into powerful digital solutions.
+</p>
 
 ---
 
-# 🌟 Featured Projects
+## 🚀 **About Me**
 
-## 💰 Expense Tracker Pro
-**Full-stack expense management system with intelligent categorization**
-
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, MongoDB, Chart.js  
-**Features:** Real-time analytics, budget alerts, receipt scanning
-
-[![View Repository](https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FAIZ1409/Expense_tracker-Final)
-
-## 📄 Financial Document Analyzer
-**AI-powered document processing for financial insights**
-
-**Tech Stack:** Python, TensorFlow, NLP, OCR  
-**Features:** Document classification, sentiment analysis, automated summaries
-
-[![View Repository](https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FAIZ1409/Financial-Document-Analyser)
-
-## 🎨 Magic Eraser - Background Removal
-**Advanced image processing tool for automatic background removal**
-
-**Tech Stack:** Computer Vision, Deep Learning, Flask  
-**Features:** One-click removal, batch processing, high-quality output
-
-[![View Repository](https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FAIZ1409/MagicEraser)
-
-## 📊 FRA Atlas & Decision Support System
-**Comprehensive financial risk analysis platform**
-
-**Tech Stack:** Java, Spring Boot, Data Visualization, Risk Modeling  
-**Features:** Real-time risk assessment, interactive dashboards, predictive analytics
-
-[![View Repository](https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FAIZ1409/FRA-ATLAS-AND-DSS)
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZ1409&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FAIZ1409&theme=radical&hide_border=true)
-
-</div>
+- 💡 Full-Stack Developer specializing in modern web & intelligent systems  
+- 🔍 Passionate about **AI, automation, finance tech & data-driven solutions**  
+- 🎯 Mission: *Build smart tools that simplify financial decision-making*  
+- 📚 Always exploring **AI integrations, scalable architectures & systems design**  
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ **Tech Stack**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.linkedin.com/in/mohammed-faiz-y-a82623290/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-faiz-y-a82623290/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizacct@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
+### 🎨 Frontend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,mongodb,mysql" />
+</p>
+
+### 🤖 AI / ML / Cloud / DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,docker,git,github" />
+</p>
 
 ---
 
-<div align="center">
+# 🌟 **Featured Projects**
 
-### 💡 *"Transforming complex financial challenges into elegant digital solutions"*
+### 💰 **Expense Tracker Pro**
+🔹 Full-stack expense analytics platform with smart categorization  
+🔹 Real-time visualizations + budgeting intelligence  
+👉 **Tech:** Node.js, MongoDB, Chart.js  
+\
+🔗 **Repo:** https://github.com/FAIZ1409/Expense_tracker-Final
 
-⭐ **From [FAIZ1409](https://github.com/FAIZ1409)**
+---
 
-</div>
+### 📄 **Financial Document Analyzer**
+🔹 AI-powered financial document processing  
+🔹 OCR, NLP, classification, summarization  
+👉 **Tech:** Python, TensorFlow, NLP  
+\
+🔗 **Repo:** https://github.com/FAIZ1409/Financial-Document-Analyser
+
+---
+
+### 🎨 **Magic Eraser – Background Removal**
+🔹 Deep learning–based image segmentation tool  
+🔹 One-click background removal (U²-Net)  
+👉 **Tech:** Computer Vision, Flask  
+\
+🔗 **Repo:** https://github.com/FAIZ1409/MagicEraser
+
+---
+
+### 📊 **FRA Atlas & Decision Support System**
+🔹 Financial risk analysis suite  
+🔹 Real-time dashboards, risk scoring & predictive modeling  
+👉 **Tech:** Java, Spring Boot, Data Visualization  
+\
+🔗 **Repo:** https://github.com/FAIZ1409/FRA-ATLAS-AND-DSS
+
+---
+
+## 🔥 **GitHub Analytics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZ1409&layout=compact&theme=radical&hide_border=true" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAIZ1409&theme=radical&hide_border=true" height="170">
+</p>
+
+---
+
+## 🤝 **Let's Connect**
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohammed-faiz-y-a82623290">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="mailto:faizacct@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+  <a href="https://instagram.com/your-profile">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
+  <a href="https://wa.me/your-number">
+    <img src="https://skillicons.dev/icons?i=discord" width="45"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 "Transforming financial complexities into intelligent digital experiences."</b>
+  <br>
+  ⭐ From <a href="https://github.com/FAIZ1409">FAIZ1409</a>
+</p>
