@@ -1,7 +1,11 @@
-<!-- ================= BANNER WITH NAME BACKGROUND ================= -->
+<!-- ================= ADVANCED FULL-STACK ANIMATED BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E4FF,100:6A5ACD&height=260&section=header&text=Mohammed%20Faiz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full‑Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20FinTech%20Innovator&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Mohammed%20Faiz&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Login%20%E2%86%92%20API%20%E2%86%92%20DB%20%E2%86%92%20AI%20%E2%86%92%20Deploy&descAlignY=60" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00E4FF&center=true&vCenter=true&width=720&lines=Frontend+%E2%86%92+React+%7C+Flutter;Backend+%E2%86%92+Spring+Boot+%7C+Node.js;Database+%E2%86%92+MongoDB+%7C+MySQL;AI+Layer+%E2%86%92+TensorFlow+%7C+NLP;Dockerized+%26+Cloud-Ready+Systems" />
 </p>
 
 <p align="center">
@@ -87,9 +91,11 @@
 </p>
 
 <p align="center">
-  <!-- FIXED STREAK IMAGE (old herokuapp often fails) -->
+  <!-- FIXED STREAK IMAGE -->
   <img src="https://github-readme-streak-stats.vercel.app?user=FAIZ1409&theme=radical&hide_border=true" />
 </p>
+
+<!-- NOTE: Removed broken/empty image tags that caused placeholder icons -->
 
 ---
 
