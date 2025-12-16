@@ -1,12 +1,14 @@
-<!-- ================= ADVANCED FULL-STACK ANIMATED BANNER ================= -->
+<!-- ================= ULTRA MODERN FULL-STACK ANIMATED BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Mohammed%20Faiz&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Login%20%E2%86%92%20API%20%E2%86%92%20DB%20%E2%86%92%20AI%20%E2%86%92%20Deploy&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:ff0080,50:7928ca,100:00c6ff&text=MOHAMMED%20FAIZ&fontSize=56&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=1&fontAlignY=35&desc=FULL-STACK%20ENGINEER%20%E2%9A%A1%20AI%2FML%20BUILDER%20%E2%9A%A1%20FINTECH%20INNOVATOR&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00E4FF&center=true&vCenter=true&width=720&lines=Frontend+%E2%86%92+React+%7C+Flutter;Backend+%E2%86%92+Spring+Boot+%7C+Node.js;Database+%E2%86%92+MongoDB+%7C+MySQL;AI+Layer+%E2%86%92+TensorFlow+%7C+NLP;Dockerized+%26+Cloud-Ready+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Frontend%3A+React+%7C+Flutter;%E2%9A%A1+Backend%3A+Spring+Boot+%7C+Node.js;%E2%9A%A1+Databases%3A+MongoDB+%7C+MySQL;%E2%9A%A1+AI+Layer%3A+TensorFlow+%7C+NLP;%E2%9A%A1+DevOps%3A+Docker+%7C+Cloud+Deployments" />
 </p>
+
+<!-- IMPORTANT: No empty image tags below this line -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00E4FF&center=true&vCenter=true&width=650&lines=Turning+complex+financial+problems+into+powerful+digital+solutions;Building+AI‑driven+Full‑Stack+Applications;Exploring+FinTech%2C+Automation+%26+Scalable+Systems" />
