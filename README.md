@@ -1,7 +1,7 @@
 <!-- ================= WOW FULL-STACK DEVELOPER BANNER (HIGH CONTRAST) ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:ff512f,50:f09819,100:00f2fe&text=MOHAMMED%20FAIZ&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER%20%7C%20FINTECH%20BUILDER&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:ff512f,50:f09819,100:00f2fe&text=MOHAMMED%20FAIZ&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER%20%7C%20DATA%20ANALYSER&descAlignY=62" />
 </p>
 
 <p align="center">
