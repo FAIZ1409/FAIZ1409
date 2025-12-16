@@ -1,14 +1,14 @@
-<!-- ================= IMPRESSIVE FULL-STACK ENGINEER BANNER ================= -->
+<!-- ================= WOW FULL-STACK DEVELOPER BANNER (HIGH CONTRAST) ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0c29,50:302b63,100:24243e&text=Mohammed%20Faiz&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20FinTech%20Builder&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:ff512f,50:f09819,100:00f2fe&text=MOHAMMED%20FAIZ&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER%20%7C%20FINTECH%20BUILDER&descAlignY=62" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=38F9D7&center=true&vCenter=true&width=950&lines=Designing+Scalable+Frontends+%F0%9F%96%A5%EF%B8%8F;Engineering+Robust+Backends+%E2%9A%99%EF%B8%8F;Data+%26+AI-Driven+Systems+%F0%9F%A7%A0;Cloud-Ready+%26+Production-Focused+Architectures+%E2%98%81%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=650&color=00F5FF&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Frontend%3A+React+%7C+Flutter+with+Smooth+UX;%F0%9F%94%A7+Backend%3A+Spring+Boot+%7C+Node.js+APIs;%F0%9F%A7%A0+AI%2FML%3A+TensorFlow+%7C+NLP+Pipelines;%E2%98%81%EF%B8%8F+Cloud%3A+Dockerized+%26+Production-Ready+Systems" />
 </p>
 
-<!-- Verified: No empty or broken image tags below -->
+<!-- FINAL VERIFIED: No empty or broken image tags below -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00E4FF&center=true&vCenter=true&width=650&lines=Turning+complex+financial+problems+into+powerful+digital+solutions;Building+AI‑driven+Full‑Stack+Applications;Exploring+FinTech%2C+Automation+%26+Scalable+Systems" />
