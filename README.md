@@ -88,14 +88,31 @@
 ## 🔥 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZ1409&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true&custom_title=Full-Stack%20%26%20AI%20Developer%20Stats" 
+    height="170"
+    alt=""
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZ1409&layout=compact&theme=radical&hide_border=true&langs_count=8" 
+    height="170"
+    alt=""
+  />
 </p>
 
 <p align="center">
-  <!-- FIXED STREAK IMAGE -->
-  <img src="https://github-readme-streak-stats.vercel.app?user=FAIZ1409&theme=radical&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.vercel.app?user=FAIZ1409&theme=radical&hide_border=true&ring=00F5FF&fire=FF512F&currStreakLabel=AI%20%7C%20Full-Stack" 
+    alt=""
+  />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+with+AI+%26+ML+Expertise;Building+Scalable+Web+Apps+%2B+Intelligent+Systems;FinTech+%7C+Automation+%7C+Data-Driven+Engineering" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true&hide_title=false&hide_rank=true" />
+
 
 <!-- NOTE: Removed broken/empty image tags that caused placeholder icons -->
 
