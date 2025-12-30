@@ -11,10 +11,6 @@
 
 <!-- FINAL VERIFIED: No empty or broken image tags below -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00E4FF&center=true&vCenter=true&width=650&lines=Turning+complex+financial+problems+into+powerful+digital+solutions;Building+AI‑driven+Full‑Stack+Applications;Exploring+FinTech%2C+Automation+%26+Scalable+Systems" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -89,13 +85,13 @@
 ## 🔥 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true&custom_title=Full-Stack+and+AI+Developer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true&custom_title=Full+Stack+and+AI+Developer" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.vercel.app?user=FAIZ1409&theme=radical&hide_border=true" />
 </p>
->
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+with+AI+%26+ML+Expertise;Building+Scalable+Web+Apps+%2B+Intelligent+Systems;FinTech+%7C+Automation+%7C+Data-Driven+Engineering" />
