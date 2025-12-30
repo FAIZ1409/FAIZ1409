@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=650&color=00F5FF&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Frontend%3A+React+%7C+Flutter+with+Smooth+UX;%F0%9F%94%A7+Backend%3A+Spring+Boot+%7C+Node.js+APIs;%F0%9F%A7%A0+AI%2FML%3A+TensorFlow+%7C+NLP+Pipelines;%E2%98%81%EF%B8%8F+Cloud%3A+Dockerized+%26+Production-Ready+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Frontend%3A+React+and+Flutter;Backend%3A+Spring+Boot+and+Node.js;AI+and+ML%3A+TensorFlow+and+NLP;Cloud%3A+Dockerized+Production+Systems" />
 </p>
+
 
 <!-- FINAL VERIFIED: No empty or broken image tags below -->
 
@@ -88,30 +89,17 @@
 ## 🔥 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true&custom_title=Full-Stack%20%26%20AI%20Developer%20Stats" 
-    height="170"
-    alt=""
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZ1409&layout=compact&theme=radical&hide_border=true&langs_count=8" 
-    height="170"
-    alt=""
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true&custom_title=Full-Stack+and+AI+Developer" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.vercel.app?user=FAIZ1409&theme=radical&hide_border=true&ring=00F5FF&fire=FF512F&currStreakLabel=AI%20%7C%20Full-Stack" 
-    alt=""
-  />
+  <img src="https://github-readme-streak-stats.vercel.app?user=FAIZ1409&theme=radical&hide_border=true" />
 </p>
+>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+with+AI+%26+ML+Expertise;Building+Scalable+Web+Apps+%2B+Intelligent+Systems;FinTech+%7C+Automation+%7C+Data-Driven+Engineering" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true&hide_title=false&hide_rank=true" />
 
 
 <!-- NOTE: Removed broken/empty image tags that caused placeholder icons -->
