@@ -85,14 +85,15 @@
 ## 🔥 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/FAIZ1409?style=for-the-badge&color=00F5FF" />
-  <img src="https://img.shields.io/github/stars/FAIZ1409?style=for-the-badge&color=FF512F" />
+  <img src="https://img.shields.io/github/followers/FAIZ1409?style=for-the-badge&label=Followers&color=00F5FF" />
+  <img src="https://img.shields.io/github/stars/FAIZ1409/Expense_tracker-Final?style=for-the-badge&label=Repo%20Stars&color=FF512F" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/FAIZ1409?style=for-the-badge&color=00E4FF" />
-  <img src="https://img.shields.io/github/last-commit/FAIZ1409?style=for-the-badge&color=F09819" />
+  <img src="https://img.shields.io/github/commit-activity/y/FAIZ1409/Expense_tracker-Final?style=for-the-badge&label=Commits&color=00E4FF" />
+  <img src="https://img.shields.io/github/last-commit/FAIZ1409/Expense_tracker-Final?style=for-the-badge&label=Last%20Commit&color=F09819" />
 </p>
+
 
 
 <p align="center">
