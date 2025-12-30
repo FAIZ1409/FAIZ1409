@@ -82,6 +82,12 @@
 
 ---
 
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FAIZ1409&theme=react-dark&hide_border=true" />
+</p>
+
 ## 🔥 GitHub Analytics
 
 <p align="center">
