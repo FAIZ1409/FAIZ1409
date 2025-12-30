@@ -85,15 +85,13 @@
 ## 🔥 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FAIZ1409&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/FAIZ1409?style=for-the-badge&color=00F5FF" />
+  <img src="https://img.shields.io/github/stars/FAIZ1409?style=for-the-badge&color=FF512F" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FAIZ1409&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAIZ1409&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/github/commit-activity/y/FAIZ1409?style=for-the-badge&color=00E4FF" />
+  <img src="https://img.shields.io/github/last-commit/FAIZ1409?style=for-the-badge&color=F09819" />
 </p>
 
 
