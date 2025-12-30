@@ -82,25 +82,16 @@
 
 ---
 
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FAIZ1409&theme=react-dark&hide_border=true" />
-</p>
-
 ## 🔥 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/FAIZ1409?style=for-the-badge&label=Followers&color=00F5FF" />
-  <img src="https://img.shields.io/github/stars/FAIZ1409/Expense_tracker-Final?style=for-the-badge&label=Repo%20Stars&color=FF512F" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FAIZ1409&theme=react-dark&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/commit-activity/y/FAIZ1409/Expense_tracker-Final?style=for-the-badge&label=Commits&color=00E4FF" />
   <img src="https://img.shields.io/github/last-commit/FAIZ1409/Expense_tracker-Final?style=for-the-badge&label=Last%20Commit&color=F09819" />
 </p>
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+with+AI+%26+ML+Expertise;Building+Scalable+Web+Apps+%2B+Intelligent+Systems;FinTech+%7C+Automation+%7C+Data-Driven+Engineering" />
